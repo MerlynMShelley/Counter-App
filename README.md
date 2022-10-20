@@ -4,4 +4,8 @@
 
 This application is created with HTML, CSS, JavaScript
 
-Thanks!
+Here is the linked to deployed site on Netlify, 
+
+https://dapper-chimera-25fa91.netlify.app/
+
+Coding Spree!
